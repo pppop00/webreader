@@ -164,7 +164,7 @@ market_insights = reader.summarize("https://market-report-site.com")
 
 ---
 
-## 🔧 Technical Details (For IT Teams)
+## 🔧 Technical Details
 
 ### **System Requirements**
 - **Operating System**: Windows, macOS, or Linux
@@ -198,44 +198,6 @@ market_insights = reader.summarize("https://market-report-site.com")
 - 💻 **Setup Help**: Check that Python and pip are installed
 - 🔑 **API Problems**: Verify your OpenAI key is correct
 - 🌐 **Network**: Ensure internet access for both websites and OpenAI
-
-### **Common Questions**
-
-**Q: Is this safe to use?**
-A: Yes! It only reads public websites and uses OpenAI's secure API.
-
-**Q: How accurate is it?**
-A: Very accurate - it uses the same AI technology as ChatGPT.
-
-**Q: Can it analyze any website?**
-A: Most websites work great. Some may block automated access.
-
-**Q: How fast is it?**
-A: Typically 10-30 seconds per website analysis.
-
----
-
-## 📄 Legal & Licensing
-
-- **Open Source**: Free to use and modify under MIT License
-- **OpenAI Terms**: Subject to OpenAI's usage policies
-- **Website Respect**: Only accesses publicly available content
-- **No Warranty**: Use at your own discretion
-
----
-
-## 🎯 Next Steps
-
-### **For Decision Makers**
-1. **Try It**: Ask your technical team to set up a demo
-2. **Calculate ROI**: Estimate time savings for your use cases
-3. **Plan Integration**: Consider how this fits your workflow
-
-### **For Technical Teams**
-1. **Install**: Follow the setup instructions above
-2. **Test**: Try with a few websites relevant to your business
-3. **Customize**: Adapt the prompts for your specific needs
-4. **Scale**: Integrate into your existing tools and processes
 
 ---
 
